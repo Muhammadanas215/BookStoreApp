@@ -1,0 +1,1 @@
+export const GET_BOOKS_DATA = 'GET_BOOKS_DATA'
